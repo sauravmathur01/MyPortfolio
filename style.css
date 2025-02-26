@@ -283,6 +283,11 @@ nav{
     color: #f7b603;
     margin-bottom: 0;
 }
+.fa-solid{
+    font-size: 50px;
+    /* color: #ff004f; */
+    margin-bottom: 0;
+}
 
 .skill:hover {
     /* background-color: #ff004f;  */
